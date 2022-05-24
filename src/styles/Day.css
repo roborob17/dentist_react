@@ -1,6 +1,6 @@
 .dayview li {
   list-style-type: none;
-  background-color: lightyellow;
+  background-color: rgb(236, 236, 225);
 }
 
 .dayview .appointment {
@@ -17,12 +17,12 @@
 
 .dayview .time {
   float: right;
-  background-color: aquamarine;
+  background-color: rgb(109, 216, 180);
 }
 
 .dayview .patient {
   font-weight: bold;
-  background-color: deepskyblue;
+  background-color: rgb(94, 130, 248);
 }
 
 .dayview .dentist,

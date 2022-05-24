@@ -5,7 +5,7 @@
 }
 
 .calendarview .header {
-  background-color: aquamarine;
+  background-color: rgb(127, 161, 255);
   font-weight: bold;
   font-size: 1.3rem;
 }
@@ -23,7 +23,7 @@
   margin-bottom: 0.5rem;
   border: 1px solid lightblue;
   padding: 0.5rem;
-  background-color: lightyellow;
+  background-color: rgb(238, 238, 226);
 }
 
 .calendarview .patient {
@@ -31,5 +31,5 @@
 }
 
 .calendarview .time {
-  color: yellowgreen;
+  color: rgb(140, 187, 46);
 }

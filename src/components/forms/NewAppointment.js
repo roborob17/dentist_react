@@ -31,7 +31,7 @@ class NewAppointment extends React.Component {
         this.handleSubmit = this.handleSubmit.bind(this);
     }
 
-    //get the patient id from the form and set is to state
+    //get the patient id from the form and set it to state
     setPatient = (event) => {
         this.setState({
             selectedPatient: parseInt(event.target.value)
